@@ -1,1 +1,1 @@
-This repository is just a stub to enable Github's wiki feature. [Visit here to read the Gthereum wiki](https://github.com/gthereum/wiki/wiki)
+This repository is just a stub to enable Github's wiki feature. [Visit here to read the Gthereum wiki](https://github.com/gthereum/wiki/wiki).
