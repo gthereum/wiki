@@ -1,1 +1,1 @@
-Please use [wiki/wiki](https://github.com/ethereum/wiki/wiki), since that is freely maintainable.
+This repository is just a stub to enable Github's wiki feature. [Visit here to read the Gthereum wiki](https://github.com/gthereum/wiki/wiki)
